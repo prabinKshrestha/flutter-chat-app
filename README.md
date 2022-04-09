@@ -2,7 +2,7 @@
 
 It only contains flutter project (does not contain service side code). 
 
-BLOC Architecture
+## BLOC Architecture
 
 ## Design Pattern
 Model
