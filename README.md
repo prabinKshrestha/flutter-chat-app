@@ -1,3 +1,11 @@
-# lpp-flutter-chat-app
+# Flutter Chat App
 
-LPP Flutter Chat App Prototype
+It only contains flutter project (does not contain service side code). 
+
+BLOC Architecture
+
+##Design Pattern
+Model
+Data Provider
+Business
+UI
